@@ -1,0 +1,23 @@
+class Solution:
+
+    #
+    # Complete the 'countApplesAndOranges' function below.
+    #
+    # The function accepts following parameters:
+    #  1. INTEGER s
+    #  2. INTEGER t
+    #  3. INTEGER a
+    #  4. INTEGER b
+    #  5. INTEGER_ARRAY apples
+    #  6. INTEGER_ARRAY oranges
+    #
+    def countApplesAndOranges(self, s, t, a, b, apples, oranges):
+        apple_count = 0
+        for apple in apples:
+            if s <= a + apple <= t:
+                apple_count += 1
+        orange_count = 0
+        for orange in oranges:
+            if s <= b + orange <= t:
+                orange_count += 1
+        print(apple_count, orange_count, sep='\n')
