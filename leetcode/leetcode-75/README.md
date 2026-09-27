@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 9 / 75  
-**Languages:** C (9)
+**Progress:** 10 / 75  
+**Languages:** C (10)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -17,7 +17,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 - [x] 443. String Compression (Medium) — `C`
 
 ## Two Pointers
-- [ ] 283. Move Zeroes (Easy)
+- [x] 283. Move Zeroes (Easy) — `C`
 - [ ] 392. Is Subsequence (Easy)
 - [ ] 11. Container With Most Water (Medium)
 - [ ] 1679. Max Number of K-Sum Pairs (Medium)
