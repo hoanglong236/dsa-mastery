@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 13 / 75  
-**Languages:** C (13)
+**Progress:** 14 / 75  
+**Languages:** C (14)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -23,7 +23,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 - [x] 1679. Max Number of K-Sum Pairs (Medium) — `C`
 
 ## Sliding Window
-- [ ] 643. Maximum Average Subarray I (Easy)
+- [x] 643. Maximum Average Subarray I (Easy) — `C`
 - [ ] 1456. Maximum Number of Vowels in a Substring (Medium)
 - [ ] 1004. Max Consecutive Ones III (Medium)
 - [ ] 1493. Longest Subarray of 1's After Deleting One Element (Medium)
