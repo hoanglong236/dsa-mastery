@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 16 / 75  
-**Languages:** C (16)
+**Progress:** 17 / 75  
+**Languages:** C (17)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -29,7 +29,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 - [ ] 1493. Longest Subarray of 1's After Deleting One Element (Medium)
 
 ## Prefix Sum
-- [ ] 1732. Find the Highest Altitude (Easy)
+- [x] 1732. Find the Highest Altitude (Easy) — `C`
 - [ ] 724. Find Pivot Index (Easy)
 
 ## Hash Map / Set
