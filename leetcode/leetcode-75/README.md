@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 18 / 75  
-**Languages:** C (18)
+**Progress:** 19 / 75  
+**Languages:** C (19)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -30,7 +30,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 
 ## Prefix Sum
 - [x] 1732. Find the Highest Altitude (Easy) — `C`
-- [ ] 724. Find Pivot Index (Easy)
+- [x] 724. Find Pivot Index (Easy) — `C`
 
 ## Hash Map / Set
 - [ ] 2215. Find the Difference of Two Arrays (Easy)
