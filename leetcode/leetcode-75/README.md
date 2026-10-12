@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 20 / 75  
-**Languages:** C (20)
+**Progress:** 21 / 75  
+**Languages:** C (21)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -36,7 +36,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 - [ ] 2215. Find the Difference of Two Arrays (Easy)
 - [x] 1207. Unique Number of Occurrences (Easy) — `C`
 - [ ] 1657. Determine if Two Strings Are Close (Medium)
-- [ ] 2352. Equal Row and Column Pairs (Medium)
+- [x] 2352. Equal Row and Column Pairs (Medium) — `C`
 
 ## Stack
 - [ ] 2390. Removing Stars From a String (Medium)
