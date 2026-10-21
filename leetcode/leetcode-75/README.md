@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 23 / 75  
-**Languages:** C (23)
+**Progress:** 24 / 75  
+**Languages:** C (24)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -39,7 +39,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 - [x] 2352. Equal Row and Column Pairs (Medium) — `C`
 
 ## Stack
-- [ ] 2390. Removing Stars From a String (Medium)
+- [x] 2390. Removing Stars From a String (Medium) — `C`
 - [ ] 735. Asteroid Collision (Medium)
 - [ ] 394. Decode String (Medium)
 
