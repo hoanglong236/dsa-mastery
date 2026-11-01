@@ -2,8 +2,8 @@
 
 My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan.
 
-**Progress:** 27 / 75  
-**Languages:** C (27)
+**Progress:** 28 / 75  
+**Languages:** C (28)
 
 ## Array / String
 - [x] 1768. Merge Strings Alternately (Easy) — `C`
@@ -45,7 +45,7 @@ My solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) s
 
 ## Queue
 - [x] 933. Number of Recent Calls (Easy) — `C`
-- [ ] 649. Dota2 Senate (Medium)
+- [x] 649. Dota2 Senate (Medium) — `C`
 
 ## Linked List
 - [ ] 2095. Delete the Middle Node of a Linked List (Medium)
